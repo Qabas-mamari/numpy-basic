@@ -1,4 +1,6 @@
 # numpy-basics
+<img src="https://numpy.org/doc/_static/numpylogo.svg" />
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/m3m0ry/numpy-basics/master?labpath=numpy-basics.ipynb)
 
 This repository contains the code/slides for [HPC-Cafe](https://hpc.fau.de/systems-services/support/hpc-cafe/) on 14.12.2021.
